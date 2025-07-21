@@ -162,4 +162,4 @@ driver.quit()
 # === Export to CSV ===
 df = pd.DataFrame(all_data)
 df.to_csv("restokart_catalog.csv", index=False)
-print("✅ All categories scraped and saved to 'restokart_catalog.csv'")
+print("✅ All categories scraped and saved to 'catalog.csv'")
