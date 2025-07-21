@@ -61,7 +61,7 @@ category_map = {
 }
 
 
-BASE_URL = "https://www.restokart.com/product-list/"
+BASE_URL = "https://www.ecommerce.com/product-list/"
 
 # === Scraping Logic for One Sub-category ===
 def scrape_subcategory(driver, category, slug):
